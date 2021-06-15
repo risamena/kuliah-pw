@@ -1,0 +1,4 @@
+Resolusi 2021:
+  - Pelajari GitHub
+  - Gunakan GitHub dalam Program
+  - Itu saja
