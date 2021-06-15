@@ -1,4 +1,6 @@
 rencana konten:
 - Javascript
+  * ES6
+  * Framework JS
 - PHP Framework
 - Vlogs
