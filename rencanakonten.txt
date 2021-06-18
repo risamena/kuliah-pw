@@ -2,9 +2,11 @@ rencana konten:
 - Javascript
   * ES6
   * Framework JS
-   ^ Angular
+   ^ Vue
    ^ React
+- Fundamental Data Structure
 - PHP Framework
- * Laravel
+   ^ Laravel
 - Vlogs
+- Phyton
 Kembalikan master branch
