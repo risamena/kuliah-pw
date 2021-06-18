@@ -2,6 +2,7 @@ rencana konten:
 - Javascript
   * ES6
   * Framework JS
+- Fundamental Data Structure
 - PHP Framework
 - Vlogs
 Kembalikan master branch
