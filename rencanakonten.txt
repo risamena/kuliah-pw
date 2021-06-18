@@ -3,6 +3,7 @@ rencana konten:
   * ES6
   * Framework JS
    ^ Vue
+   ^ React
 - Fundamental Data Structure
 - PHP Framework
    ^ Laravel
