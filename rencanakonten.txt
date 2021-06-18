@@ -2,7 +2,9 @@ rencana konten:
 - Javascript
   * ES6
   * Framework JS
-- Fundamental Data Structure
+   ^ Angular
+   ^ React
 - PHP Framework
+ * Laravel
 - Vlogs
 Kembalikan master branch
